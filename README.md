@@ -32,3 +32,9 @@ This is a course in python for PUCP
 4. Colegio Guadalupe
 5. Trilce
 6. El buen pastor
+
+7. ## Favorite Food
+8. Juane
+9. Aguadito
+10. Malarrabia
+11. Ceviche
